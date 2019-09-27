@@ -1,0 +1,10 @@
+.cabecalho {
+    background-color: black;
+    grid-area: cabecalho
+}
+
+.titulo, .subtitulo {
+    color: white;
+    padding-left: 10px
+}
+

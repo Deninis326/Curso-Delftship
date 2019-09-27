@@ -1,0 +1,10 @@
+.rodape {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    color:white;
+    background-color: darkblue;
+    
+    grid-area: rodape;
+}
